@@ -1,0 +1,267 @@
+[
+    {
+      "id": 1,
+      "name": "Honda City",
+      "brand": "Honda",
+      "price": 1200000,
+      "fuelType ": "Petrol",
+      "seating": 5,
+      "image": "https://i.pinimg.com/736x/3f/0e/07/3f0e07ddd02b79f1663011ddf1d503fd.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Hyundai Creta",
+      "brand": "Hyundai",
+      "price": 1500000,
+      "fuelType": "Diesel",
+      "seating": 5,
+      "image": "https://images.alphacoders.com/131/thumb-1920-1312673.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Toyota Fortuner Legender",
+        "brand": "Toyota",
+        "price": 4500000,
+        "fuelType": "Petrol",
+        "seating": 7,
+        "image": "https://wallpapers.com/images/high/toyota-fortuner-legender-pearl-white-vvg7mvfp53kvs8n4.webp"
+    },
+    
+        {
+          "id": 4,
+          "name": "Maruti Suzuki Swift",
+          "brand": "Maruti",
+          "price": 700000,
+          "fuelType": "Petrol",
+          "seating": 5,
+          "image": "https://c4.wallpaperflare.com/wallpaper/52/318/440/2018-suzuki-swift-wallpaper-preview.jpg"
+        },
+      
+        {
+          "id": 5,
+          "name": "Tata Nexon EV",
+          "brand": "Tata",
+          "price": 1450000,
+          "fuelType": "Electric",
+          "seating": 5,
+          "image": "https://stimg.cardekho.com/images/carexteriorimages/930x620/Tata/Nexon-EV-2023/11024/1694146347051/front-left-side-47.jpg"
+        },
+        {
+          "id": 6,
+          "name": "Mahindra Thar",
+          "brand": "Mahindra",
+          "price": 1600000,
+          "fuelType": "Diesel",
+          "seating": 4,
+          "image": "https://i.pinimg.com/736x/0e/89/d1/0e89d1410803b93e859784e914206c03.jpg"
+        },
+        {
+          "id": 7,
+          "name": "Kia Seltos",
+          "brand": "Kia",
+          "price": 1250000,
+          "fuelType": "Petrol",
+          "seating": 5,
+          "image": "https://images.pexels.com/photos/26743954/pexels-photo-26743954.jpeg?cs=srgb&dl=pexels-hyundaimotorgroup-26743954.jpg&fm=jpg"
+        },
+        
+        {
+          "id": 8,
+          "name": "Renault Kwid",
+          "brand": "Renault",
+          "price": 500000,
+          "fuelType": "Petrol",
+          "seating": 5,
+          "image": "https://images.drivespark.com/ph-big/2019/10/renault-kwid-exterior-2.jpg"
+        },
+        {
+          "id": 9,
+          "name": "Maruti Suzuki Brezza",
+          "brand": "Maruti",
+          "price": 1100000,
+          "fuelType": "Petrol",
+          "seating": 5,
+          "image": "https://imgd-ct.aeplcdn.com/1056x660/n/cw/ec/107543/brezza-exterior-left-front-three-quarter.jpeg?isig=0&q=80"
+        },
+        {
+          "id": 10,
+          "name": "MG Hector",
+          "brand": "MG",
+          "price": 1700000,
+          "fuelType": "Petrol",
+          "seating": 5,
+          "image": "https://imgd-ct.aeplcdn.com/1056x660/n/cw/ec/130583/hector-exterior-right-front-three-quarter-73.jpeg?isig=0&q=80"
+        },
+        {
+          "id": 11,
+          "name": "Hyundai Verna",
+          "brand": "Hyundai",
+          "price": 1300000,
+          "fuelType": "Petrol",
+          "seating": 5,
+          "image": "https://imgd-ct.aeplcdn.com/1056x660/n/cw/ec/121943/verna-facelift-exterior-right-front-three-quarter-100.jpeg?isig=0&q=80"
+        },
+        {
+          "id": 12,
+          "name": "Tata Harrier",
+          "brand": "Tata",
+          "price": 1800000,
+          "fuelType": "Diesel",
+          "seating": 5,
+          "image": "https://imgd-ct.aeplcdn.com/1056x660/n/cw/ec/139139/harrier-facelift-exterior-front-view-11.jpeg?isig=0&q=80"
+        },
+        {
+          "id": 13,
+          "name": "Mahindra Scorpio-N",
+          "brand": "Mahindra",
+          "price": 1800000,
+          "fuelType": "Diesel",
+          "seating": 7,
+          "image": "https://imgd-ct.aeplcdn.com/1056x660/n/cw/ec/40432/scorpio-n-exterior-right-front-three-quarter-74.jpeg?isig=0&q=80"
+        },
+        {
+          "id": 14,
+          "name": "Kia Carens",
+          "brand": "Kia",
+          "price": 1400000,
+          "fuelType": "Petrol",
+          "seating": 7,
+          "image": "https://i.pinimg.com/736x/dc/2a/8b/dc2a8b4c2c3530a6a4dc5a62a8ef93bc.jpg"
+        },
+        {
+          "id": 15,
+          "name": "Toyota Innova HyCross",
+          "brand": "Toyota",
+          "price": 2400000,
+          "fuelType": "Hybrid",
+          "seating": 7,
+          "image": "https://images.autox.com/uploads/2023/05/Toyota-Innova-Hycross-Front-View.jpg"
+        },
+        {
+          "id": 16,
+          "name": "Volkswagen Virtus",
+          "brand": "Volkswagen",
+          "price": 1350000,
+          "fuelType": "Petrol",
+          "seating": 5,
+          "image": "https://imgd-ct.aeplcdn.com/1056x660/n/cw/ec/144681/virtus-exterior-right-front-three-quarter-6.jpeg?isig=0&q=80"
+        },
+        {
+          "id": 17,
+          "name": "Skoda Kushaq",
+          "brand": "Skoda",
+          "price": 1400000,
+          "fuelType": "Petrol",
+          "seating": 5,
+          "image": "https://cdn.skoda-storyboard.com/2021/03/16_SKODA_KUSHAQ_WP.jpg"
+        },
+        {
+          "id": 18,
+          "name": "Nissan Magnite",
+          "brand": "Nissan",
+          "price": 800000,
+          "fuelType": "Petrol",
+          "seating": 5,
+          "image": "https://i.pinimg.com/736x/79/a6/c0/79a6c022b989f87f3ad75a7e4e1301db.jpg"
+        },
+        {
+          "id": 19,
+          "name": "Tata Punch",
+          "brand": "Tata",
+          "price": 750000,
+          "fuelType": "Petrol",
+          "seating": 5,
+          "image": "https://stimg.cardekho.com/images/carexteriorimages/930x620/Tata/Punch/10681/1691392713058/exterior-image-174.jpg?impolicy=resize&imwidth=420"
+        },
+        {
+          "id": 20,
+          "name": "Hyundai Venue",
+          "brand": "Hyundai",
+          "price": 1100000,
+          "fuelType": "Petrol",
+          "seating": 5,
+          "image": "https://wallpapercave.com/wp/wp4993513.jpg"
+        },
+        {
+            "id": 21,
+            "brand": "Mercedes-Benz",
+            "model": "S-Class",
+            "year": 2024,
+            "fuelType": "Petrol",
+            "price": "16000000",
+            "seating": 5,
+            "image": "https://imgd-ct.aeplcdn.com/1056x660/n/cw/ec/48067/s-class-exterior-right-front-three-quarter-9.jpeg?isig=0&q=80"
+          },
+          {
+            "id": 22,
+            "brand": "BMW",
+            "model": "7 Series",
+            "year": 2023,
+            "fuelType": "Petrol",
+            "price": "14000000",
+            "seating": 5,
+            "image": "https://www.bmw.in/content/dam/bmw/common/topics/offers-and-services/bmw-special-sales-2020/protection-vehicle/bmw-css-7-series-protection-ms-new-standard.jpg"
+          },
+          {
+            "id": 23,
+            "brand": "Audi",
+            "model": "A8 L",
+            "year": 2024,
+            "fuelType": "Petrol",
+            "price": "13000000",
+            "seating": 5,
+            "image": "https://img.autocarpro.in/autocarpro/c5a99156-38bb-4c5e-89b8-6d6956edce01.jpg?w=750&h=490&q=75&c=1"
+          },
+          {
+            "id": 24,
+            "brand": "Tesla",
+            "model": "Model S Plaid",
+            "year": 2024,
+            "fuelType": "Electric",
+            "price": "15000000",
+            "seating": 4,
+            "image": "https://www.topgear.com/sites/default/files/2023/09/1%20Tesla%20Model%20S%20Plaid%20-%20DSC09079.jpg"
+          },
+          {
+            "id": 25,
+            "brand": "Lexus",
+            "model": "LS 500h",
+            "year": 2023,
+            "fuelType": "Hybrid",
+            "price": "22000000 Cr",
+            "seating": 5,
+            "image": "https://global.toyota/pages/news/images/2017/03/07/1600/001.jpg"
+          },
+          {
+            "id": 26,
+            "brand": "Range Rover",
+            "model": "Range Rover Vogue",
+            "year": 2023,
+            "fuelType": "Diesel",
+            "price": "24000000Cr",
+            "seating": 6,
+            "image": "https://media.ed.edmunds-media.com/land-rover/range-rover/2025/oem/2025_land-rover_range-rover_4dr-suv_p530-autobiography_fq_oem_1_1600.jpg"
+          },
+          {
+            "id": 27,
+            "brand": "Porsche",
+            "model": "911 Carrera",
+            "year": 2024,
+            "fuelType": "Petrol",
+            "price": "19000000 Cr",
+            "seating": 4,
+            "image": "https://img.autocarindia.com/model/uploads/modelimages/Porsche-911-130420241405.jpg?w=872&h=578&q=75&c=1"
+          },
+          {
+            "id": 28,
+            "brand": "Rolls-Royce",
+            "model": "Ghost",
+            "year": 2024,
+            "fuelType": "Petrol",
+            "price": "70000000",
+            "seating": 5,
+            "image": "https://stimg.cardekho.com/images/carexteriorimages/930x620/Rolls-Royce/Ghost/8051/1601280317407/front-left-side-47.jpg"
+          }
+      
+    
+  ]
